@@ -15,16 +15,16 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
     There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
 
-#### Vine Reviews DataFrame
+#### Fig 1. Vine Reviews DataFrame
 ![image](https://user-images.githubusercontent.com/114360511/217747461-479069a9-39ee-42c1-9842-934e2b576319.png)
 
-#### Non-Vine Reviews DataFrame
+#### Fig 2. Non-Vine Reviews DataFrame
 ![image](https://user-images.githubusercontent.com/114360511/217747724-e652a1ec-6c50-4978-9506-0a2dc2dbc859.png)
 
-#### Vine Reviews Analysis
+#### Fig 3. Vine Reviews Analysis
 ![image](https://user-images.githubusercontent.com/114360511/217747782-207f4ed1-9224-464c-8989-7cd816a2f5cb.png)
 
-#### Non-Vine Reviews Analysis
+#### Fig 4. Non-Vine Reviews Analysis
 ![image](https://user-images.githubusercontent.com/114360511/217747869-8719f8fd-e293-4a50-ace2-d9bf0e2aa484.png)
 
 
