@@ -1,9 +1,7 @@
 # Module 17 Challenge: Amazon_Vine_Analysis
 
 ## Overview of the analysis:
-
-    Explain the purpose of this analysis of the Vine Program.
-    The purpose of this analysis is well defined (3 pt)
+The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.  The purpose of this analysis is to determine if there is any bias toward favorable reviews from Vine members in your dataset. We will be using a dataset of Amazon reviews for tools.  We will use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin.  Finally we will use PySpark to analyze the pattern of five-star reviews to determine if there is any obvious bias toward favorable reviews from Vine(paid) members over Non-Vine(unpaid) members.
 
 
 ## Results:
