@@ -27,9 +27,9 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 
 ## Summary: 
+In summary, there does appear to be a positivity bias for reviews in the Vine program, as only ~57% of Vine reviews were 5-star rated, while only ~46% of Non-Vine reviews were 5-star rated.  The 11% difference between shows that when paid with free tools to review, Vine reviewers provide more 5-star reviews.  The only caution on this is the enormous imbalance in number of reviews analyzed, which means other small differences could account for large percentage swings.
 
-    In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+An additional analysis on the tool review dataset that might lend support to the above summary conclusion would be to analyze the percentages of all star counts (1-5), to see if the trend continues for ratings of 4 stars and possibly reverse on the lower star counts (1-3).  Our original dataset provided the star count detail, not just 5-star or "other".
 
-    - The summary states whether or not there is bias, and the results support this (2 pt)
-    - An additional analysis is recommended to support the statement (2 pt)
+
 
