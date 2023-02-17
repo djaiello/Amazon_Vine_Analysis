@@ -6,14 +6,12 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 ## Results:
 
-    Using bulleted lists and images of DataFrames as support, address the following questions:
+- Total # of Reviews Analyzed: 285 Vine Reviews(Fig 3.) and 31,545 Non-Vine Reviews(Fig 4.)
 
-        - How many Vine reviews and non-Vine reviews were there?
-        - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-        - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews  
-             were 5 stars?
+- Total # of 5-Star Reviews:  163 Vine Reviews(Fig 3.) and 14,614 Non-Vine Reviews(Fig 4.)
 
-    There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
+- Percentage of Reviews that were 5-Star:  57.19% 0f Vine Reviews(Fig 3.) and 46.33% of Non-Vine Reviews(Fig 4.)
+
 
 #### Fig 1. Vine Reviews DataFrame
 ![image](https://user-images.githubusercontent.com/114360511/217747461-479069a9-39ee-42c1-9842-934e2b576319.png)
